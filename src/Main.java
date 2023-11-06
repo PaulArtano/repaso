@@ -9,7 +9,10 @@ public class Main {
         System.out.println("hace bueno");
         System.out.println("Juego al futbol");
         System.out.println("me gusta la lasaña");
-
+        System.out.println("me gusta la coliflor");
+        System.out.println("me gustan las lentejas");
+        System.out.println("Me gusta el basket");
+        System.out.println("Me gusta el basket");
         // Press Mayús+F10 or click the green arrow button in the gutter to run the code.
         for (int i = 1; i <= 5; i++) {
 
