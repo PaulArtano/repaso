@@ -4,7 +4,7 @@ public class Main {
     public static void main(String[] args) {
         // Press Alt+Intro with your caret at the highlighted text to see how
         // IntelliJ IDEA suggests fixing it.
-        System.out.printf("Hello and welcome!");
+        System.out.println("Hello and welcome!");
         System.out.println("Jaime es imbecil");
         System.out.println("hace bueno");
         System.out.println("Juego al futbol");
@@ -13,6 +13,8 @@ public class Main {
         System.out.println("me gustan las lentejas");
         System.out.println("Me gusta el basket");
         System.out.println("Me gusta el basket");
+        System.out.println("AUPA LENGO");
+
         // Press Mayús+F10 or click the green arrow button in the gutter to run the code.
         for (int i = 1; i <= 5; i++) {
 
