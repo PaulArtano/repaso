@@ -14,6 +14,7 @@ public class Main {
         System.out.println("Me gusta el basket");
         System.out.println("Me gusta el basket");
         System.out.println("AUPA LENGO");
+        System.out.println("soy el pichichi");
 
         // Press Mayús+F10 or click the green arrow button in the gutter to run the code.
         for (int i = 1; i <= 5; i++) {
